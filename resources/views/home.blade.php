@@ -53,10 +53,10 @@
 
 <ul class="nav justify-content-end">
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="{{ route('login') }}">Login</a>
+    <a class="nav-link active" aria-current="page" href="">Login</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="{{ route('register') }}">Sing Up</a>
+    <a class="nav-link active" aria-current="page" href="">Sing Up</a>
   </li>
   </ul>
 </nav>
@@ -159,7 +159,7 @@
 <footer>
   <div class="container">
     <div class="grid">
-        <p class="copyright">&copy; Copyright 2018 Katherine Kato</p>
+        <p class="copyright">&copy; Copyright 2023 Elsy Lemus</p>
     
     </div>
   </div>

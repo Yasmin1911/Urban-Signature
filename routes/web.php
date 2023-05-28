@@ -22,4 +22,4 @@ Route::get('/', function () {
 
 Route::view('/login', 'login');
 
-Route::post('/login', [LoginController::class, 'login']);
+Route::post('/login-controller', [LoginController::class, 'login']);
